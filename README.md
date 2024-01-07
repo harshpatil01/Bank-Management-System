@@ -1,6 +1,4 @@
 
-
-```markdown
 # Bank Management System
 
 This is a simple banking management system written in C.
