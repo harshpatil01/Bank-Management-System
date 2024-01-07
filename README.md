@@ -12,8 +12,8 @@ This is a simple banking management system written in C.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/bank-management-system.git
-cd bank-management-system
+git https://github.com/harshpatil01/Bank-Management-System.git
+cd Bank-Management-System
 ```
 
 ### Compile and Run
